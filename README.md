@@ -1,4 +1,4 @@
-# Kucharka
+# Kuchařka
 
 Jedná se o projekt v rámci hodin PRJ na Obchodní akademii v Uherském Hradišti.
 
