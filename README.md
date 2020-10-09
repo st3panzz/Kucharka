@@ -8,7 +8,4 @@ Popis zadání:
 
 Tato webová aplikace bude sloužit pro uživatele, kteří si budou chtít vyhledat určitý recept podle ingredience, kterou mají k dispozici. Cílovou skupinou budou ženy nebo také muži, kteří často vaří a potřebují recept přizpůsobit ingredienci.
 
-Požadavky: dostupnost (na mobilních zařízení a PC)
-           responzivita
-           atraktivní vzhled (design, grafika)
-           použitelnost
+Požadavky: dostupnost (na mobilních zařízení a PC), responzivita, atraktivní vzhled (design a grafika), použitelnost
