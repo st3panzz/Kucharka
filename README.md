@@ -1,7 +1,6 @@
 # Kuchařka
 
-Jedná se o projekt v rámci hodin PRJ na Obchodní akademii v Uherském Hradišti.
-
+Jedná se o projekt v rámci hodin PRJ na Obchodní akademii v Uherském Hradišti ve školním roce 2020/2021.
 Členové skupiny jsou: Vojtěch Nosek, Štěpán Zbořil a Vojtěch Vlachynský
 
 Popis zadání:
