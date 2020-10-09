@@ -1,6 +1,7 @@
 # Kucharka
 
 Jedná se o projekt v rámci PRJ na Obchodní akademii v Uherském Hradišti.
+
 Členové skupiny jsou: Vojtěch Nosek, Štěpán Zbořil a Vojtěch Vlachynský
 
 Popis zadání:
