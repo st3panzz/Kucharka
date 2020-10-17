@@ -15,4 +15,5 @@ Požadavky: dostupnost (na mobilních zařízení a PC), responzivita (PC, telef
 Zohledněná omezení: 
 
 Wireframe – 1: https://ctrlv.cz/xduN
+
 Wireframe – 2: https://wireframe.cc/4eD9uz, https://ctrlv.cz/74xy
