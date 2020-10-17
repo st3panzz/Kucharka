@@ -12,6 +12,7 @@ Tato webová aplikace bude sloužit pro uživatele, kteří si budou chtít vyhl
 
 Požadavky: dostupnost (na mobilních zařízení a PC), responzivita (PC, telefony, tablety), atraktivní vzhled (design a grafika webu), použitelnost (přehlednost, funkce a jejich bezproblémové využívání)
 
-Zohledněná omezení: ...
+Zohledněná omezení: 
 
-...
+Wireframe – 1: https://ctrlv.cz/xduN
+Wireframe – 2: https://wireframe.cc/4eD9uz, https://ctrlv.cz/74xy
