@@ -12,8 +12,4 @@ Cílová skupina uživatelů: Tato webová aplikace bude sloužit pro uživatele
 
 Požadavky: dostupnost (na mobilních zařízení a PC), responzivita (PC, telefony, tablety), atraktivní vzhled (design a grafika webu), použitelnost (přehlednost, funkce a jejich bezproblémové využívání), internetové připojení, WiFi a jiné, uživatel musí dopředu znát ingredienci neboli vyhledávací klíč, se kterým chce nebo bude pracovat
 
-Zohledněná omezení: není primárně určeno pro tablety a telefony, kde může špatně fungovat responzivita webu nebo také může být jiný vzhled webu, špatné nebo slabé připojení k internetu nebo WiFi → web nebude fungovat a nebo se vůbec nenačte, počet ingrediencí neboli klíčů pro vyhledávání bude značně omezené, což znamená, že uživatelé budou moci používat základní ingredience, se kterými se normálně v kuchyni vaří a to znamená, že nebudou moci zadávat ingredience, které jsou nevšední a v normální kuchyni se bud´ vůbec 
-nevyskytují nebo se moc nepoužívají
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- // Wireframe: https://wireframe.cc/4eD9uz, https://ctrlv.cz/74xy //
+Zohledněná omezení: není primárně určeno pro tablety a telefony, kde může špatně fungovat responzivita webu nebo také může být jiný vzhled webu, špatné nebo slabé připojení k internetu nebo WiFi → web nebude fungovat a nebo se vůbec nenačte, počet ingrediencí neboli klíčů pro vyhledávání bude značně omezené, což znamená, že uživatelé budou moci používat základní ingredience, se kterými se normálně v kuchyni vaří a to znamená, že nebudou moci zadávat ingredience, které jsou nevšední a v normální kuchyni se bud´ vůbec nevyskytují nebo se moc nepoužívají
