@@ -20,5 +20,7 @@ není primárně určeno pro tablety a telefony, kde může špatně fungovat re
 
 ### Ukázka UI:
 Wireframe 1: 
+
 Wireframe 2: 
+
 Diagram: 
