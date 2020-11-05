@@ -8,6 +8,6 @@ Wireframe 2:
 -> navazuje na wireframe 1
 
 Diagram:
-Případy použití — úkoly/činnosti, které systém bude řešit. Kreslí se jako elipsy.
+-> Případy použití — úkoly/činnosti, které systém bude řešit. Kreslí se jako elipsy.
 -> Terminátory, které poskytují data našemu systému, se kreslí vlevo.
 -> Terminátory, které získávají data z našeho systému, se kreslí vpravo.
