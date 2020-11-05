@@ -20,5 +20,5 @@ není primárně určeno pro tablety a telefony, kde může špatně fungovat re
 
 ### Ukázka UI:
 Wireframe 1: https://github.com/st3panzz/Kucharka/blob/main/Wireframe%201.PNG                                                                                                                                                                     
-Wireframe 2: https://github.com/st3panzz/Kucharka/blob/main/Wireframe%201.PNG                                                                                                                                                                      
-Diagram: https://github.com/st3panzz/Kucharka/blob/main/Diagram.jpg                                                                                                                                                                          
+Wireframe 2: https://github.com/st3panzz/Kucharka/blob/main/Wireframe%202.PNG                                                                                                                                                                     
+Diagram: https://github.com/st3panzz/Kucharka/blob/main/Diagram.jpg                                                                                                         
