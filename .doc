@@ -4,5 +4,10 @@ Wireframe 1:
 -> tagy - například brokolice, rajče atd.
 
 Wireframe 2:
+-> Zjednodušený návrh rozložení prvků uživatelského rozhraní.
+-> navazuje na wireframe 1
 
 Diagram:
+Případy použití — úkoly/činnosti, které systém bude řešit. Kreslí se jako elipsy.
+-> Terminátory, které poskytují data našemu systému, se kreslí vlevo.
+-> Terminátory, které získávají data z našeho systému, se kreslí vpravo.
