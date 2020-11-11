@@ -1,4 +1,4 @@
-#Plán projektu - Tabulka
+# Plán projektu - Tabulka
 
 Co budou řešit jednotliví členové týmu v následujících týdnech:
 
