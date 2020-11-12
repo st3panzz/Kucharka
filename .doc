@@ -2,12 +2,15 @@ Wireframe 1:
 -> sekce - například: zelenina, ovoce atd.
 -> tímto způsobem budou udělané i další sekce
 -> tagy - například brokolice, rajče atd.
+-> menu a vyhledávací klíče
 
 Wireframe 2:
--> Zjednodušený návrh rozložení prvků uživatelského rozhraní.
 -> navazuje na wireframe 1
+-> Zjednodušený návrh rozložení prvků uživatelského rozhraní.
+-> vyhledané recepty podle vyhledávacích klíčů
+-> menu
 
 Diagram:
--> Případy použití — úkoly/činnosti, které systém bude řešit. Kreslí se jako elipsy.
--> Terminátory, které poskytují data našemu systému, se kreslí vlevo.
--> Terminátory, které získávají data z našeho systému, se kreslí vpravo.
+-> Případy použití — úkoly/činnosti, které bude systém řešit, jsou nakresleny jako elipsy.
+-> Terminátory: Kuchař a Správce, kteří poskytují data našemu systému, jsou nakresleni vlevo.
+-> Terminátory: Kuchař a Správce, kteří získávají data z našeho systému, jsou nakresleni vpravo.
