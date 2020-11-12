@@ -6,6 +6,6 @@ Co budou řešit jednotliví členové týmu v následujících týdnech:
 | :---: | :---          | :---               | :---          |
 | 9. - 15. 11. | návrh databáze | vytvoření základní kostry webu | úprava dokumentace - popis wireframů a diagramu |
 | 16. - 22. 11. | vytvoření a testování databáze | implementace funkcí na web | práce na dokumentaci |
-| 23. - 29. 11. | implementace databáze do systému |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 23. - 29. 11. | implementace databáze do systému | zprovoznění funkcí webu | testování a výpomoc |
+| 30. - 13. 12. |  |  |  |
+| 14. - 23. 12. |  |  |  |
