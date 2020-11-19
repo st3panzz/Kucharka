@@ -3,7 +3,7 @@
 - tímto způsobem budou udělané i další sekce
 - klíče/tagy - například brokolice, rajče atd.
 - menu a vyhledávací klíče                                                                                                                                                         
-! (Wireframe 1.png)
+! (Wireframe 1.PNG)
 
 ## Wireframe 2:
 - navazuje na wireframe 1
