@@ -18,5 +18,5 @@
 - Terminátory: Kuchař a Správce, kteří získávají data z našeho systému, jsou nakresleni vpravo.
 - Kuchař je typický uživatel, který si vybírá z daných tagů neboli surovin
 - Správce přidává klíče/tagy k receptům podle kterých potom kuchař hledá, přidává také recepty                                                                                     
-! [] (ArgoUML - Diagram.PNG)                                                                                                                                             
-! [] (Diagram.jpg)
+! [ ] (ArgoUML - Diagram.PNG)                                                                                                                                             
+! [ ] (Diagram.jpg)
