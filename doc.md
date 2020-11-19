@@ -3,7 +3,7 @@
 - tímto způsobem budou udělané i další sekce
 - klíče/tagy - například brokolice, rajče atd.
 - menu a vyhledávací klíče                                                                                                                                                         
-! [ ] (obrázek.jpg)
+! [ ] (obrázek.jpp)
 
 ## Wireframe 2:
 - navazuje na wireframe 1
