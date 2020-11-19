@@ -11,7 +11,7 @@
 - menu
 
 ## Diagram:
-- Případy použití — úkoly/činnosti, které bude systém řešit, jsou nakresleny jako elipsy.
+- Případy použití - úkoly/činnosti, které bude systém řešit, jsou nakresleny jako elipsy.
 - Terminátory: Kuchař a Správce, kteří poskytují data našemu systému, jsou nakresleni vlevo.
 - Terminátory: Kuchař a Správce, kteří získávají data z našeho systému, jsou nakresleni vpravo.
 - Kuchař je typický uživatel, který si vybírá z daných tagů neboli surovin
