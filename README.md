@@ -18,6 +18,8 @@ dostupnost (na mobilních zařízení a PC), responzivita (PC, telefony, tablety
 ### Zohledněná omezení:
 špatné nebo slabé připojení k internetu nebo WiFi → web nebude fungovat, anebo se vůbec nenačte. Počet ingrediencí neboli tzv. "tagů“, které budou zařazeny do sekcí tak, aby uživatel mohl klikat na každou sekci a vybírat z ní potraviny, které právě teď má doma po ruce. Vyhledávání bude značně omezené, což znamená, že uživatelé budou moci používat základní ingredience, se kterými se normálně v kuchyni vaří. Uživatelé si nebudou moci vybrat z ingrediencí, které jsou nevšední a v normální kuchyni se buď vůbec nevyskytují nebo se moc nepoužívají
 
+Tento projekt je vytvářen v programu Visual Studio Code.
+
 ### Ukázka UI:
 Soubor .doc s okomentovanými wireframy a diagramem: https://github.com/st3panzz/Kucharka/blob/main/doc.md                                                                           
 Plán: https://github.com/st3panzz/Kucharka/blob/main/plan/plan.md
