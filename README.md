@@ -22,4 +22,4 @@ dostupnost (na mobilních zařízení a PC), responzivita (PC, telefony, tablety
 Soubor .doc s okomentovanými wireframy a diagramem: https://github.com/st3panzz/Kucharka/blob/main/doc.md                                                                       
 Plán: https://github.com/st3panzz/Kucharka/blob/main/plan/plan.md
 
-Tento projekt je vytvářen v programu Visual Studio Code. Veškerá dokumentace tohoto projektu se zaznamenává na github do příslušného repozitáře.
+Tento projekt je vytvářen v programech Visual Studio Code, Atom a MySQL Workbench 8.0 CE. Veškerá dokumentace tohoto projektu se zaznamenává na github do příslušného repozitáře.
