@@ -21,5 +21,3 @@ dostupnost (na mobilních zařízení a PC), responzivita (PC, telefony, tablety
 ### Ukázka UI:
 Soubor doc.md s popsanými wireframy a diagramem: https://github.com/st3panzz/Kucharka/blob/main/doc/doc.md                                                                 
 Plán: https://github.com/st3panzz/Kucharka/blob/main/plan/plan.md
-
-Tento projekt je vytvářen v programech Visual Studio Code, Atom a MySQL Workbench 8.0 CE. Veškerá dokumentace tohoto projektu se zaznamenává na github do příslušného repozitáře.
