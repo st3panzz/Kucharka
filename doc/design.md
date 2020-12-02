@@ -12,4 +12,4 @@ Code Igniter, Bootstrap - Tyto frameworky jsme se rozhodli použít, protože n�
 MySQL Workbench 8.0 CE - S tímto systémem databází už máme zkušenosti a vyhovuje nám.
 
 ### Vývojové prostředí a verze 
-Visual Studio Code -> stabilní (aktuální) verze, Atom -> stabilní (aktuální) verze
+Visual Studio Code -> stabilní (aktuální) verze: 1.51, Atom -> stabilní (aktuální) verze: 1.53
