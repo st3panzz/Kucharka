@@ -2,8 +2,8 @@
 
 Co budou řešit jednotliví členové týmu v následujících týdnech:
 
-| Týden     | Vojtěch Nosek | Vojtěch Vlachynský | Štěpán Zbořil |
-| :-------: | :---          | :---               | :---          |
+| Týden | Vojtěch Nosek | Vojtěch Vlachynský | Štěpán Zbořil |
+| :---: | :---          | :---               | :---          |
 | 9. - 15. 11. | návrh databáze, návrh wireframu | problém s grafikou | úprava dokumentace - popis wireframů a diagramu |
 | 16. - 22. 11. | vytvoření a testování databáze | implementace funkcí na web, problém s PC - opožděně | práce na dokumentaci - úprava diagramu a wireframů |
 | 23. - 29. 11. | úprava wireframu | zprovoznění funkcí webu, problém s PC - opožděně | github komplementace - branch: main |
