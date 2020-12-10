@@ -1,6 +1,6 @@
 # Návrhová rozhodnutí
 
-Tento projekt je vytvářen v programech Visual Studio Code, Atom a MySQL Workbench 8.0 CE. Jsou to programy, které nám vyhovují a pomohou nám s tvorbou tohoto projektu. Dále se veškerá dokumentace tohoto projektu zaznamenává na github do příslušného repozitáře.
+Tento projekt je vytvářen v programech Visual Studio Code, Atom a MySQL Workbench 8.0 CE. Jsou to programy, které nám vyhovují a pomohou nám s tvorbou tohoto projektu. Dále se veškerá dokumentace, kód a verze tohoto projektu zaznamenávají na github do příslušného repozitáře.
 
 ### Jazyky:
 PHP, HTML, CSS - Tyto jazyky jsme se rozhodli použít, protože nám ve všem vyhovují.
