@@ -20,5 +20,5 @@ dostupnost (na mobilních zařízení a PC), responzivita (PC, telefony, tablety
 
 ### Ukázka UI:
 Soubor doc.md s popsanými wireframy a diagramem: https://github.com/st3panzz/Kucharka/blob/main/doc/doc.md                                                                 
-Plán: https://github.com/st3panzz/Kucharka/blob/main/plan/plan.md                                                                                                                   
-Návrhová dokumentace: 
+Plán: https://github.com/st3panzz/Kucharka/blob/main/plan/plan.md                                                                                                               
+Návrhová dokumentace: https://github.com/st3panzz/Kucharka/blob/main/doc/design.md
