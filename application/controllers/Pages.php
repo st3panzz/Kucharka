@@ -5,6 +5,8 @@ class Pages extends CI_Controller {
     public function __construct(){
         parent::__construct();
     }
+
+
     public function view(){
 
 
@@ -23,4 +25,21 @@ class Pages extends CI_Controller {
             $this->load->view('pages/'.$page, $data);
             $this->load->view('templates/footer');
     }
+
+    public function model()
+      {
+          $this->load->model('Main_model');
+          $config = array();
+          $data['kucharka'] = $this->Main_model->get_recepty();
+          $page = 'home';
+          $this->load->view('templates/header',$data);
+          $this->load->view('pages/'.$page, $data);
+          $this->load->view('templates/footer');
+
+
+          //$this->load->view('layout/navbar', $data);
+          
+          //$this->load->view('pages/footer');
+      }
+
 }
