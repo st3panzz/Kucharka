@@ -53,3 +53,5 @@ $route['default_controller'] = 'pages/model';
 //$route['home'] = 'pages/model';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
+$route["vyhledat-recepty"] = "Pages/getRecipe";
+$route["jidlo/(:num)"] = "Pages/detailFood/$1";

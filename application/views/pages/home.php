@@ -1,11 +1,12 @@
+<form action="<?php echo base_url("vyhledat-recepty"); ?>" method="POST">
 <div class="menu">
   <div id="accordion">
     <div class="card">
       <div class="card-header" id="headingOne">
         <h5 class="mb-0">
-          <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <a class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
           Zelenina
-        </button>
+        </a>
       </h5>
     </div>
 
@@ -14,50 +15,50 @@
       <div class="card-body">
 
         <div class="form-check">
-  <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+  <input class="form-check-input" type="checkbox" name="ingredience[]" value="cibule" id="defaultCheck1">
   <label class="form-check-label" for="defaultCheck1">
     Cibule
-  </label>
+</label>
       </div>
       <div class="form-check">
-<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-<label class="form-check-label" for="defaultCheck1">
+<input class="form-check-input" type="checkbox" name="ingredience[]" value="celer" id="defaultCheck2">
+<label class="form-check-label" for="defaultCheck2">
 Celer
 </label>
     </div>
     <div class="form-check">
-<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-<label class="form-check-label" for="defaultCheck1">
+<input class="form-check-input" type="checkbox" name="ingredience[]" value="pórek" id="defaultCheck3">
+<label class="form-check-label" for="defaultCheck3">
 Pórek
 </label>
   </div>
   <div class="form-check">
-<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-<label class="form-check-label" for="defaultCheck1">
+<input class="form-check-input" type="checkbox"  name="ingredience[]" value="mrkev" id="defaultCheck4">
+<label class="form-check-label" for="defaultCheck4">
 Mrkev
 </label>
 </div>
 <div class="form-check">
-<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-<label class="form-check-label" for="defaultCheck1">
+<input class="form-check-input" type="checkbox"  name="ingredience[]" value="brokolice" id="defaultCheck5">
+<label class="form-check-label" for="defaultCheck5">
 Brokolice
 </label>
 </div>
 <div class="form-check">
-<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-<label class="form-check-label" for="defaultCheck1">
+<input class="form-check-input" type="checkbox"  name="ingredience[]" value="kyselá okurka" id="defaultCheck6">
+<label class="form-check-label" for="defaultCheck6">
 Kyselá okurka
 </label>
 </div>
 <div class="form-check">
-<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-<label class="form-check-label" for="defaultCheck1">
+<input class="form-check-input" type="checkbox"  name="ingredience[]" value="salátová okurka" id="defaultCheck7">
+<label class="form-check-label" for="defaultCheck7">
 Salátová okurka
 </label>
 </div>
 <div class="form-check">
-<input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-<label class="form-check-label" for="defaultCheck1">
+<input class="form-check-input" type="checkbox"  name="ingredience[]" value="kořenová zelenina" id="defaultCheck8">
+<label class="form-check-label" for="defaultCheck8">
 Kořenová zelenina
 </label>
 </div>
@@ -81,9 +82,9 @@ Kořenová zelenina
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
       <div class="card-body">
         <div class="form-check">
-  <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-  <label class="form-check-label" for="defaultCheck1">
-    Cibule
+  <input class="form-check-input" type="checkbox"  name="ingredience[]" value="citronová šťáva" id="defaultCheck9">
+  <label class="form-check-label" for="defaultCheck9">
+    Citronová šťáva
   </label>
       </div>
     </div>
@@ -108,9 +109,9 @@ Kořenová zelenina
     </div>
   </div>
   <br>
-  <button type="button" class="btn btn-lg btn-primary" enabled>Primary button</button>
+  <button type="submit" class="btn btn-lg btn-primary" enabled>Primary button</button>
 </div>
-
+</form>
 <div class="column">
     <table class="table table-striped table-bordered">
         <thead>
@@ -125,7 +126,7 @@ Kořenová zelenina
             <?php foreach ($kucharka as $row): ?>
                 <tr>
                     <td><?= $row->jmeno ?></td>
-                    
+
                     <td><?= $row->recept ?></td>
 
                 </tr>

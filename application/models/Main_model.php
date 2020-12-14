@@ -29,4 +29,30 @@ Class Main_model extends CI_Model {
         //$query = $this->db->get();
         //return $query->result();
     }
+
+    public function getIDIngredience($name){
+      $this->db->select("id");
+      $this->db->from("ingredience");
+      $this->db->where("ingredience",$name);
+      $return = $this->db->get()->result();
+      return $return;
+    }
+
+    public function getFoodByID($ingredience){
+      $this->db->select("jidlo_id");
+      $this->db->from("propojeni");
+      $this->db->where("ingredience_id",$ingredience);
+      $return = $this->db->get()->result();
+      return $return;
+    }
+
+    public function getFood($id_food){
+        $this->db->select("id,jmeno,recept");
+        $this->db->from("jidlo");
+        $this->db->where("id",$id_food);
+        $return = $this->db->get()->result();
+        return $return;
+    }
+
+
 }
