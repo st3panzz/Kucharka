@@ -1,3 +1,4 @@
+
 <?php
 
 
@@ -5,9 +6,12 @@ foreach($jidlo as $item):
   $food = $item[0];
   if($food != null):
     ?>
-    <a href="<?php echo base_url("jidlo/".$food->id); ?>">
-      <h3><?php echo $food->jmeno; ?></h3>
-    </a>
+     <div class="card">
+       <a id="polozky" href="<?php echo base_url("jidlo/".$food->id); ?>">
+         <h3 id="polozky"><b><?php echo $food->jmeno; ?></b></h3>
+       </a>
+     </div>
+
     <?php
   endif;
 endforeach;

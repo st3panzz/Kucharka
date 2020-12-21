@@ -70,6 +70,7 @@ class Pages extends CI_Controller {
 
     public function detailFood($id_food)
     {
+      
       $page = "detail-food";
       $data["title"] = "Detail jídla";
       $data["jidlo"] = $this->Main_model->getFood($id_food);

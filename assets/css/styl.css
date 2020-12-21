@@ -1,0 +1,66 @@
+.body
+{
+  background-image: url("../img/pozadi.png");
+
+}
+
+#collapseOne
+{
+  background-color: tomato;
+  color: white;
+
+}
+
+#collapseTwo
+{
+  background-color: tomato;
+  color: white;
+}
+
+#collapseThree
+{
+  background-color: tomato;
+  color: white;
+}
+
+#nazev
+{
+    color:orange;
+    text-align:center;
+    background-color: gold;
+
+}
+
+#card
+{
+  margin-top: 10%;
+  color:orange;
+
+}
+#link
+{
+  text-decoration: none;
+  color:orange;
+}
+#polozky
+{
+  font-family: sans-serif;
+color: black;
+
+padding-bottom:2.5%;
+padding-top: 2.5%
+
+}
+
+#nadpis_recept
+{
+  font-family: sans-serif;
+color: black;
+
+
+
+}
+.recept
+{
+  text-align:left;
+}
