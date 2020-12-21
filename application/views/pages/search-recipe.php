@@ -10,6 +10,7 @@ foreach($jidlo as $item):
        <a id="polozky" href="<?php echo base_url("jidlo/".$food->id); ?>">
          <h3 id="polozky"><b><?php echo $food->jmeno; ?></b></h3>
        </a>
+       
      </div>
 
     <?php
