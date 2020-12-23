@@ -7,7 +7,7 @@
 
     <div id="accordion">
       <div class="row">
-<div class="col-lg-4 col-md-4 col-sm-12">
+<div class="col-lg-4 col-md-12 col-sm-12">
     <div id="card" class="card">
       <div id="nazev"class="card-header" id="headingOne">
         <h5 class="mb-0">
@@ -77,7 +77,7 @@ Kořenová zelenina
 </div>
 </div>
 
-<div class="col-lg-4 col-md-4 col-sm-12">
+<div class="col-lg-4 col-md-12 col-sm-12">
 
   <div id="card" class="card">
     <div id="nazev" class="card-header" id="headingTwo">
@@ -102,7 +102,7 @@ Kořenová zelenina
   </div>
 </div>
 
-<div class="col-lg-4 col-md-4 col-sm-12">
+<div class="col-lg-4 col-md-12 col-sm-12">
   <div id="card" class="card">
     <div id="nazev" class="card-header" id="headingThree">
       <h5 class="mb-0">
