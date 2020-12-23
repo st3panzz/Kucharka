@@ -5,7 +5,8 @@ foreach($jidlo as $recipe):
 
   if($recipe != null):
     ?>
-     <div class="card">
+    <br />
+     <div id="rec"class="card">
         <h1 id="nadpis_recept"><?php echo $recipe->id ?> . <?php echo $recipe->jmeno ?></h1>
 <br />
   <div>

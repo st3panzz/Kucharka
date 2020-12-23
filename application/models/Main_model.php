@@ -47,7 +47,7 @@ Class Main_model extends CI_Model {
     }
 
     public function getFood($id_food){
-        $this->db->select("id,jmeno,recept");
+        $this->db->select("id,jmeno,recept,obrazek");
         $this->db->from("jidlo");
         $this->db->where("id",$id_food);
         $return = $this->db->get()->result();

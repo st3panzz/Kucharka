@@ -36,6 +36,8 @@
   margin-top: 10%;
   color:orange;
 
+
+
 }
 #link
 {
@@ -60,8 +62,21 @@ color: black;
 
 
 }
+#nahled
+{
+  text-align: center;
+
+
+}
 .recept
 {
   text-align:left;
-  
+
+}
+#rec
+{
+  padding-left: 2.5%;
+  padding-top: 2.5%;
+  line-height: 200%
+
 }
