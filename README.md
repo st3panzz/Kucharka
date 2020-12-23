@@ -4,6 +4,8 @@ Jedná se o projekt v rámci hodin PRJ na Obchodní akademii v Uherském Hradiš
 
 Členové skupiny jsou: Vojtěch Nosek, Štěpán Zbořil a Vojtěch Vlachynský
 
+Odkaz na funkční verzi: http://kucharkavnz.9e.cz/
+
 ## Popis zadání:
 
 ### Cíl projektu:
